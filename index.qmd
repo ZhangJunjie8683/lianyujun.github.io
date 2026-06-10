@@ -8,7 +8,7 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
+      text: 13075668683@163.com
       href: mailto:arlionn@163.com
     - icon: github
       text: arlionn
